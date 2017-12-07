@@ -1,0 +1,20 @@
+.articleSection {
+  display: flex;
+  flex-direction: column;
+  padding:0
+
+}
+
+.articleSection div {
+  display: flex;
+  flex-direction: column;
+  align-content:center;
+  text-align: center;
+}
+
+img {
+  height: 80%;
+  width:80%;
+
+
+}

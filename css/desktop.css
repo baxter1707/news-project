@@ -1,0 +1,20 @@
+img {
+  height: 70%;
+  width:50%;
+}
+
+.articleSection {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.articleSection div {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+}
+
+.banner h1 {
+  text-align: center;
+}
